@@ -19,12 +19,12 @@ se remonta e pousa no produto. **Sem 3D** — toda a profundidade vem de camadas
 
 [![NOCTIS](https://raw.githubusercontent.com/Bebeto04/noctis-perfume/main/docs/noctis-scroll.gif)](https://github.com/Bebeto04/noctis-perfume)
 
-<!-- LINK-AO-VIVO-NOCTIS -->
+### 🔗 [Ver o site ao vivo](https://noctis-perfume.vercel.app)
 
 **Destaques técnicos:** mediana de 13 ms por quadro · 28 verificações automatizadas em navegador ·
 versão estática completa para quem prefere menos animação · 231 KB de JS.
 
-→ **[Ver o projeto e o estudo de caso](https://github.com/Bebeto04/noctis-perfume)**
+→ **[Ver o site ao vivo](https://noctis-perfume.vercel.app)** · **[Estudo de caso e código](https://github.com/Bebeto04/noctis-perfume)**
 
 ---
 
